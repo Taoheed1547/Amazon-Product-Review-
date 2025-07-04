@@ -53,17 +53,32 @@ The analysis includes visual breakdowns by product category, average rating, rev
 ### Recommendations
 
 - Focus Marketing on High Revenue, High Rating Products:  
-  Promote Computers & Accessories and Electronics items with top ratings and revenue.
+  - Promote Computers & Accessories and Electronics items with top ratings and revenue.
 
 - Optimize Discount Strategies:  
-  Reduce heavy discounting in low-performing categories to preserve margins.
+  - Reduce heavy discounting in low-performing categories to preserve margins.
 
 - Leverage Customer Reviews:  
-  Encourage verified reviews in underperforming categories to build trust.
+  - Encourage verified reviews in underperforming categories to build trust.
 
 - Inventory Planning:  
-  Prioritize stocking categories with strong sales and consistent demand (e.g., Electronics, Home Improvement).
+  - Prioritize stocking categories with strong sales and consistent demand (e.g., Electronics, Home Improvement).
+
+### Dataset and Dashboard
+
+Attached is the Microsoft Excel file for the dataset and dashboard for better interactivity.
 
 
+
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21068363/Amazon.case.study.xlsx)
+
+
+
+### Author
+Taoheed A. Salawu
+
+Data Analyst
+
+[LinkedIn](www.linkedin.com/in/taoheed-a-salawu-b2ab42187)
 
 
