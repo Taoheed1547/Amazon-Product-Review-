@@ -72,7 +72,8 @@ Attached is the Microsoft Excel file for the dataset and dashboard for better in
 
 [Amazon case study.xlsx](https://github.com/user-attachments/files/21068363/Amazon.case.study.xlsx)
 
-![Amazon](https://github.com/user-attachments/assets/d5c9b434-b890-49d1-89bf-acbedc9b783e)
+
+[Amazon](https://github.com/user-attachments/assets/d5c9b434-b890-49d1-89bf-acbedc9b783e)
 
 
 ### Author
